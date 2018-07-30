@@ -1,4 +1,4 @@
-    puts 'Do you want breakfest, lunch or dinner?'
+    puts "Do you want breakfest, lunch or dinner?"
     says = gets.chomp
     def breakfast(breakfast= "frosted flakes")
       breakfast("bacon")
