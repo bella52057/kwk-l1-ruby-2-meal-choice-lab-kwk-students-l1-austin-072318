@@ -15,9 +15,4 @@ def dinner("salmon")
   puts "Dinner is when I like to eat #{dinner}!"
 end
 
-
-
-
-
-
-
+end
